@@ -9,5 +9,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="tether" level="application" />
+    <orderEntry type="library" name="popper-utils" level="application" />
   </component>
 </module>
