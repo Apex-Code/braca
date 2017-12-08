@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19562176-a2a2-42b3-916f-9f127b508749" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/braca.iml" afterPath="$PROJECT_DIR$/.idea/braca.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/assets/lib/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/assets/lib/css/bootstrap.lux.min.css" />
       <change beforePath="$PROJECT_DIR$/braca.html" afterPath="$PROJECT_DIR$/braca.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,18 +22,47 @@
       <file leaf-file-name="braca.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/braca.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="461">
+              <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="braca.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/js/braca.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.lux.min.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/lib/css/bootstrap.lux.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="183">
+              <caret line="11" column="141581" lean-forward="false" selection-start-line="11" selection-start-column="141581" selection-end-line="11" selection-end-column="141581" />
+              <folding>
+                <element signature="e#60118#60318#2" expanded="true" />
+                <element signature="e#60442#60591#2" expanded="true" />
+                <element signature="e#60739#60885#2" expanded="true" />
+                <element signature="e#61393#61556#1" expanded="true" />
+                <element signature="e#72103#72346#2" expanded="true" />
+                <element signature="e#73181#73430#2" expanded="true" />
+                <element signature="e#100557#100747#2" expanded="true" />
+                <element signature="e#100793#100983#2" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="braca.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/braca.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -43,6 +74,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -52,8 +85,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/braca.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/assets/css/braca.css" />
+        <option value="$PROJECT_DIR$/assets/lib/css/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/braca.html" />
+        <option value="$PROJECT_DIR$/assets/js/braca.js" />
       </list>
     </option>
   </component>
@@ -99,6 +135,12 @@
               <item name="braca" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="braca" type="b2602c69:ProjectViewProjectNode" />
+              <item name="braca" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -110,6 +152,7 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -148,12 +191,12 @@
       <option name="presentableId" value="Default" />
       <updated>1512748160190</updated>
       <workItem from="1512748161649" duration="1380000" />
-      <workItem from="1512765862235" duration="679000" />
+      <workItem from="1512765862235" duration="1950000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2059000" />
+    <option name="totallyTimeSpent" value="3330000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -208,13 +251,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
       <provider editor-type-id="sourcemapFileViewerProvider">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/braca.html">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/braca.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -222,10 +274,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/assets/lib/css/bootstrap.lux.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="183">
+          <caret line="11" column="141581" lean-forward="false" selection-start-line="11" selection-start-column="141581" selection-end-line="11" selection-end-column="141581" />
+          <folding>
+            <element signature="e#60118#60318#2" expanded="true" />
+            <element signature="e#60442#60591#2" expanded="true" />
+            <element signature="e#60739#60885#2" expanded="true" />
+            <element signature="e#61393#61556#1" expanded="true" />
+            <element signature="e#72103#72346#2" expanded="true" />
+            <element signature="e#73181#73430#2" expanded="true" />
+            <element signature="e#100557#100747#2" expanded="true" />
+            <element signature="e#100793#100983#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/braca.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/braca.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="13" />
           <folding />
         </state>
       </provider>
