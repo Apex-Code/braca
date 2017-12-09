@@ -1,11 +1,104 @@
-#container{
-   border:2px solid grey;
-    width:360px;
-    margin:10% auto;
+body {
+
+    height: 100%;
+    background: #C02425; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #F0CB35, #C02425); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #F0CB35, #C02425); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
-.finishedItem{
-    color:grey;
-    text-decoration: line-through;
+h1 {
+    font-family: "Roboto Slab", cursive;
+    background-color: #FFA200;
+    color: white;
+    margin: 0;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    font-weight: normal;
 }
+
+.navbar-dark {
+    background-color: rgba(255, 198, 33, 0) !important;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+#container li {
+    background-color: antiquewhite;
+    line-height: 40px;
+    height: 40px;
+    color: #666;
+}
+
+#container li:nth-child(2n) {
+    background-color: ghostwhite;
+    color: #ff9514;
+}
+
+#container > ul > li {
+    font-family: "Indie Flower", sans-serif;
+    font-size: 2em;
+    letter-spacing: 1.5px;
+    color: #1a1a1a;
+
+}
+
+#container {
+    font-family: "Indie Flower", sans-serif;
+    box-shadow: 0 0 3px rgba(0, 0, 0, .3);
+    background-color: ghostwhite;
+    width: 33vw;
+    margin: 100px auto;
+}
+
+.finishedItem {
+    color: grey;
+    text-decoration: line-through red;
+
+}
+
+input {
+    font-size: 22px;
+    background-color: ghostwhite;
+    width: 100%;
+    padding: 13px 13px 13px 20px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    border: none;
+    color: #ffa200;
+}
+
+input:focus {
+    background-color: white;
+    color: #ffa200;
+    border: #ff9514;
+    outline: none;
+}
+
+.fa-pencil {
+    float: right;
+}
+
+span {
+    background-color: #e74c3c;
+    height: 40px;
+    margin-right: 20px;
+    text-align: center;
+    color: white;
+    width: 0;
+    display: inline-block;
+    opacity: 0;
+    transition: .4s linear;
+}
+
+li:hover span {
+    width: 40px;
+    opacity: 1;
+}
+
+
 
